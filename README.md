@@ -1,0 +1,4 @@
+ofxLaunchAtLogin
+================
+
+launch at login
